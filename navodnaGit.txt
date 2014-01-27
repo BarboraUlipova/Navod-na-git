@@ -1,0 +1,11 @@
+Navod na git:
+pouštím v command line
+git init - udelá z adresáøe, ve kterém jsem repozitáø(seznam sejfù)
+git log - vyjede seznam verzí v adresáøí (ideálnì verzí jednoho programu, pokud je mám v jednom adresáøí)
+git diff - ukáže rozdíl mezi posledním commitem a tím, co teï na disku
+git add nazevsouboru - pøidám soubor, který ještì není v gitu nebo se pøidá zmìnìný soubor
+git commit - druhý krok pøi pøidávání - uloží to, co bylo pøidáno add jako verzi a otevøe editor, kde to mùžu popsat
+git show - zadám název commitu (pár divných snakù) a ukáže, co se zmìnilo v té verzi
+git push - pushne to vsechno, co je commitnute na internet
+git clone URLadresa - stáhne z internetu projekt a vytvori mi adresar na disku
+git pull - stahne nove zmeny u jiz naklonovaneho projektu
